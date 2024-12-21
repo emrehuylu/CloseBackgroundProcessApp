@@ -8,6 +8,10 @@ namespace ClosedAppSon
 {
     public class Program
 	{
+		/// <summary>
+		/// Close app from background process and start app after 3000ms
+		/// </summary>
+		/// <param name="args"></param>
 		static void Main(string[] args)
 		{
 			// C:\Users\Administrator\AppData\Roaming\CloseApp
