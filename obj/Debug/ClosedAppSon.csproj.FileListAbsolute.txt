@@ -1,0 +1,8 @@
+C:\Users\Emre Huylu\source\repos\ClosedAppSon\bin\Debug\ClosedAppSon.exe.config
+C:\Users\Emre Huylu\source\repos\ClosedAppSon\bin\Debug\ClosedAppSon.exe
+C:\Users\Emre Huylu\source\repos\ClosedAppSon\bin\Debug\ClosedAppSon.pdb
+C:\Users\Emre Huylu\source\repos\ClosedAppSon\obj\Debug\ClosedAppSon.csproj.AssemblyReference.cache
+C:\Users\Emre Huylu\source\repos\ClosedAppSon\obj\Debug\ClosedAppSon.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emre Huylu\source\repos\ClosedAppSon\obj\Debug\ClosedAppSon.csproj.CoreCompileInputs.cache
+C:\Users\Emre Huylu\source\repos\ClosedAppSon\obj\Debug\ClosedAppSon.exe
+C:\Users\Emre Huylu\source\repos\ClosedAppSon\obj\Debug\ClosedAppSon.pdb
